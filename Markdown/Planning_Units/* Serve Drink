@@ -1,0 +1,5 @@
+### fires when drink is fully constructed
+> - interpret markings on cup to determine drink name and customer name
+> - call out description
+> - make drink accessible to customer
+> - greet customer
